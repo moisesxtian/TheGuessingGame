@@ -1,0 +1,11 @@
+C:\Users\MOISES\source\repos\TheGuessingGame\bin\Debug\TheGuessingGame.exe.config
+C:\Users\MOISES\source\repos\TheGuessingGame\bin\Debug\TheGuessingGame.exe
+C:\Users\MOISES\source\repos\TheGuessingGame\bin\Debug\TheGuessingGame.pdb
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.csproj.AssemblyReference.cache
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.Form1.resources
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.Properties.Resources.resources
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.csproj.GenerateResource.cache
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.exe
+C:\Users\MOISES\source\repos\TheGuessingGame\obj\Debug\TheGuessingGame.pdb
